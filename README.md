@@ -1,5 +1,4 @@
 # End-to-End-Reusable-E-Commerce-Data-Pipeline-with-Apache-Airflow
-# End-to-End Reusable E-Commerce ETL Pipeline with Apache Airflow
 
 ## Overview
 This project demonstrates a production-style ETL (Extract, Transform, Load) pipeline that automates the ingestion of e-commerce data from a REST API, performs data cleansing and transformation using Python and Pandas, loads curated datasets into MySQL, and orchestrates the workflow using Apache Airflow.
